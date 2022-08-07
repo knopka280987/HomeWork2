@@ -3,12 +3,16 @@ public class Main {
         System.out.println("Hello world!");
 
         //Задача 1
+
         byte lesson = 8;
         short course = 9;
         int profession = 11;
         long year = 365L;
         float f = 45.78f;
         double d = 68.42;
+        char c =  33;
+        boolean a = true;
+        boolean b = false;
 
         //Задача 2
 
